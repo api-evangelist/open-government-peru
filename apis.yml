@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.datosabiertos.gob.pe/
 common:
+  - type: DomainSecurity
+    url: security/open-government-peru-domain-security.yml
   - type: Website
     url: https://www.datosabiertos.gob.pe/
   - type: PublicAPIsListing
