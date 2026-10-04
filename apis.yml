@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Peru
     description: "Peru Government Open Data"
     humanURL: https://www.datosabiertos.gob.pe/
-    baseURL: https://www.datosabiertos.gob.pe/
     tags:
       - Government
     properties:
